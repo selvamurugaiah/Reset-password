@@ -83,4 +83,3 @@ const userdb = new mongoose.model("users", userSchema);
 module.exports = userdb;
 
 
-// if (this.isModified("password")) {    }
